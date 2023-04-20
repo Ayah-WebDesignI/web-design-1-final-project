@@ -38,7 +38,7 @@ header {
     margin:0;
     /* font-size: 120%; */
     width: 75%;
-    padding: .5m;
+    padding: .2rem;
     /* margin: left; */
     color: rgb(48, 189, 184);
     text-align: left;
@@ -169,7 +169,7 @@ nav a:hover, a:focus {
 }
 .services-wrapper1 p {
     min-height: 130px;
-    text-decoration: ;
+    text-decoration: italic;
 }
 
 .services-wrapper1 cite {
